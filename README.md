@@ -13,3 +13,7 @@ npm install
 ``` 
 npm start 
 ```
+
+### Live-Site : 
+
+[See Live-site on Heroku](https://picnic-node.herokuapp.com/)
